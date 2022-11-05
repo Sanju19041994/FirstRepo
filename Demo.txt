@@ -1,5 +1,10 @@
 public class Demo{
 
+    public int add(int a, int b){
+        
+           c=a+b;
+terurn c;
+}
        public static void main(String args[]){
          
            System.out.println("Hello World");
